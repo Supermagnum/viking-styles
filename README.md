@@ -22,3 +22,4 @@ https://github.com/Supermagnum/viking-styles/blob/main/oseberg-tight.pdf
 https://github.com/Supermagnum/viking-styles/blob/main/worms.pdf
 
 Licensed under Creative Commons Zero v1.0 Universal.
+https://github.com/Supermagnum/viking-styles/blob/main/LICENSE
